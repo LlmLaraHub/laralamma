@@ -41,7 +41,7 @@
         "vedmant/laravel-feed-reader": "^1.6",
         "voku/stop-words": "^2.0",
         "wamania/php-stemmer": "^3.0",
-        "webklex/laravel-imap": "^4.1",
+        "webklex/laravel-imap": "^5.3",
         "yethee/tiktoken": "^0.4.0"
     },
     "require-dev": {
